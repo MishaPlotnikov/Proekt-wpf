@@ -1,0 +1,34 @@
+﻿<Window x:Class="Авторизация_и_регистрация.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Авторизация_и_регистрация"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid Background="WhiteSmoke">
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="10,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" TextChanged="TextBox_TextChanged" Background="LightGray"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="10,118,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" Background="#FFD8D8D8"/>
+        <TextBox HorizontalAlignment="Left" Height="22" Margin="10,160,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="236" Background="#FFD8D8D8"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,57,0,0" TextWrapping="Wrap" Text="Имя" VerticalAlignment="Top" RenderTransformOrigin="2.24,0.684" Width="236" FontFamily="Segoe UI Light" Height="18"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,98,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="2.24,0.684" Width="236" FontFamily="Segoe UI Light" Height="20"><Run Text="Фамили"/><Run Text="я"/></TextBlock>
+        <TextBlock HorizontalAlignment="Left" Margin="10,140,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="2.24,0.684" Width="236" Text="Отчество" Height="20" FontFamily="Segoe UI Light"/>
+        <Label Content="                                                                                 &#xD;&#xA;Добро пожаловать в личный кабинет" HorizontalAlignment="Left" VerticalAlignment="Top" Width="792" Background="#FF87CEFA" FontWeight="Bold" FontFamily="Global Sans Serif" Height="52"/>
+        <Button Content="Сохранить" HorizontalAlignment="Left" Margin="10,196,0,0" VerticalAlignment="Top" Width="236" Click="Button_Click"/>
+        <TextBlock Text="GGHome" FontSize="50" FontFamily="Tw Cen MT Condensed Extra Bold" TextDecorations="{x:Null}" RenderTransformOrigin="0.5,0.5" Margin="481,-6,94,369" FontStyle="Italic" Foreground="#FFE0E0E0" >
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="12.162"/>
+                    <RotateTransform Angle="-1.656"/>
+                    <TranslateTransform X="6.034"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform>
+            <TextBlock.Effect>
+                <DropShadowEffect/>
+            </TextBlock.Effect>
+        </TextBlock>
+        <Button Content="На главную" HorizontalAlignment="Left" Margin="10,237,0,0" VerticalAlignment="Top" Width="236" Click="Button_Click_2"/>
+
+    </Grid>
+</Window>

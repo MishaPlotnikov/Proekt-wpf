@@ -1,0 +1,106 @@
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.exe.config
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.exe
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.pdb
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.AssemblyReference.cache
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\MainWindow.g.cs
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\App.g.cs
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация_MarkupCompile.cache
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация_MarkupCompile.lref
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\MainWindow.baml
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.g.resources
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация_и_регистрация.Properties.Resources.resources
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.GenerateResource.cache
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.CoreCompileInputs.cache
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.exe
+C:\Users\1w3\source\repos\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.pdb
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.exe.config
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.exe
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.pdb
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\EntityFramework.dll
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\System.Data.SQLite.dll
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\EntityFramework.xml
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\System.Data.SQLite.xml
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.AssemblyReference.cache
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\MainWindow.g.cs
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\App.g.cs
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация_MarkupCompile.cache
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация_MarkupCompile.lref
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\MainWindow.baml
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.g.resources
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация_и_регистрация.Properties.Resources.resources
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.GenerateResource.cache
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.CoreCompileInputs.cache
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.CopyComplete
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.exe
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.pdb
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\AdminPanel.g.cs
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\AdminPanel.baml
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\itproger.db
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\UserPage.g.cs
+C:\Users\1w3\Desktop\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\UserPage.baml
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\itproger.db
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.exe.config
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.exe
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.pdb
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\EntityFramework.dll
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\System.Data.SQLite.dll
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\EntityFramework.xml
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\bin\Debug\System.Data.SQLite.xml
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.AssemblyReference.cache
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\AdminPanel.g.cs
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\MainWindow.g.cs
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\UserPage.g.cs
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Window1.g.cs
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\App.g.cs
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация_MarkupCompile.cache
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация_MarkupCompile.lref
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\AdminPanel.baml
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\MainWindow.baml
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\UserPage.baml
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Window1.baml
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.g.resources
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация_и_регистрация.Properties.Resources.resources
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.GenerateResource.cache
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.CoreCompileInputs.cache
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.CopyComplete
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.exe
+C:\Users\1w3\Desktop\Программы\Авторизация и регистрация\Авторизация и регистрация\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.pdb
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\itproger.db
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.exe.config
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.exe
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\Авторизация и регистрация.pdb
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\System.Data.SQLite.dll
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\bin\Debug\System.Data.SQLite.xml
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\AdminPanel.g.cs
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\MainWindow.g.cs
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\UserPage.g.cs
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Window1.g.cs
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\App.g.cs
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация_MarkupCompile.cache
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация_MarkupCompile.lref
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\AdminPanel.baml
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\MainWindow.baml
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\UserPage.baml
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Window1.baml
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.g.resources
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация_и_регистрация.Properties.Resources.resources
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.csproj.CopyComplete
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.exe
+C:\Users\Admin\Desktop\Авторизация и регистрация (4)\Авторизация и регистрация\obj\Debug\Авторизация и регистрация.pdb
